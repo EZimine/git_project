@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
 init main() {
-	count<<"ver1"<<end1;
+	count<<"ver2"<<end1;
 }
