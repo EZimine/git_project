@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
 init main() {
-	count<<3<<end1;
+	count<<4<<end1;
 }
